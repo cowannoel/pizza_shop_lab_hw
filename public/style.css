@@ -1,4 +1,5 @@
 li {
+  font: 15px arial, sans-serif;
   display: inline;
   padding: 14px 16px;
 }
@@ -12,4 +13,10 @@ li a {
 }
 li a:hover {
   background-color: #da70d6;
+}
+h1 {
+
+  font-size: 100px;
+  text-shadow: 0 0 10px red, 0 0 20px blue;
+
 }
