@@ -1,0 +1,15 @@
+li {
+  display: inline;
+  padding: 14px 16px;
+}
+ul {
+  border: 1px solid #e7e7e7;
+  background-color: #dda0dd;
+}
+
+li a {
+  color: white;
+}
+li a:hover {
+  background-color: #da70d6;
+}

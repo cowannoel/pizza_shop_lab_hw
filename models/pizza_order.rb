@@ -18,7 +18,7 @@ class PizzaOrder
   end
 
   def total()
-    return @quantity * @price
+    return @quantity
   end
 
   def save()

@@ -54,3 +54,11 @@ post '/pizza-orders/:id/delete' do
   order.delete
   erb(:delete)
 end
+
+get '/locations' do
+  erb(:locations)
+end
+
+get '/contact' do
+  erb(:contact)
+end
